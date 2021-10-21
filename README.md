@@ -40,3 +40,6 @@ Secondary Options:
 	ad< num > : Set adjustment to num.
 	al< num > : Set the alignment level for aligned sequence alphabets.
 </code></pre>
+<br>
+An R function, plot_seq_prob.R, is provided to plot the contents of the fasta_filename_info-det file.
+<br \>
